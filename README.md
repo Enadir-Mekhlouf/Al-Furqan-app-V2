@@ -1,6 +1,6 @@
 # quran_app
 
-A new Flutter project.
+Al-Furqan-app-V2 adding quran audio to surah's (OLD VERSION)
 
 ## Getting Started
 
